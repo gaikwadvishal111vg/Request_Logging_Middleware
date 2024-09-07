@@ -1,0 +1,16 @@
+2024-09-04T12:53:08.063Z info: Received a GET request for /
+2024-09-04T12:53:08.072Z error: This is an error message
+2024-09-04T12:53:08.072Z warn: This is a warning message
+2024-09-04T12:53:08.073Z info: This is an info message
+2024-09-04T12:53:08.074Z info: Request received: 
+2024-09-04T12:53:08.528Z info: Received a GET request for /favicon.ico
+2024-09-04T12:53:11.669Z info: Received a GET request for /
+2024-09-04T12:53:11.670Z error: This is an error message
+2024-09-04T12:53:11.671Z warn: This is a warning message
+2024-09-04T12:53:11.671Z info: This is an info message
+2024-09-04T12:53:11.672Z info: Request received: 
+2024-09-04T13:01:38.575Z info: Received a GET request for /
+2024-09-04T13:01:38.581Z error: This is an error message
+2024-09-04T13:01:38.582Z warn: This is a warning message
+2024-09-04T13:01:38.582Z info: This is an info message
+2024-09-04T13:01:38.583Z info: Request received: 
